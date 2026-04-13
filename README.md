@@ -45,11 +45,6 @@
 ---
 
 ## 🚀 Установка
-<details>
-<summary><h2>Наглядный пример (GIF)</h2></summary>
-
-![Установка](https://github.com/user-attachments/assets/46d8b82c-8472-49f7-b9d4-1015a25d981f)
-</details>
 
 ### Как установить?
 
@@ -59,9 +54,9 @@
 
 **В итоге в папке Half-Life должны быть три папки:**
 
-- valve
-- valve_hd
-- valve_russian
+- `valve`
+- `valve_hd`
+- `valve_russian`
 
 ### Опциональные HD-текстуры:
 1. Поместить ```pak2.pak``` в папку ```valve_russian``` c заменой.
