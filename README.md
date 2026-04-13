@@ -6,7 +6,7 @@
 
 <div align="center">
    
-# [🛒 Купить Half-Life](https://store.steampowered.com/app/70/HalfLife) | [📝 Руководство](https://steamcommunity.com/sharedfiles/filedetails/?id=3357713201) | [🍩 Поддержать автора](https://boosty.to/nightguardianx)
+# [🛒 Купить Half-Life](https://store.steampowered.com/app/70/HalfLife) | [📝 Руководство](https://steamcommunity.com/sharedfiles/filedetails/?id=3357713201) | [🍩 Поддержать](https://boosty.to/nightguardianx)
 
 </div> 
 
