@@ -45,6 +45,11 @@
 ---
 
 ## 🚀 Установка
+<details>
+<summary><h2>Наглядный пример (GIF)</h2></summary>
+
+![Установка](https://github.com/user-attachments/assets/46d8b82c-8472-49f7-b9d4-1015a25d981f)
+</details>
 
 ### Как установить?
 
@@ -58,9 +63,18 @@
 - valve_hd
 - valve_russian
 
+### Опциональные HD-текстуры:
+1. Поместить ```pak2.pak``` в папку ```valve_russian``` c заменой.
+
 ---
 
 ## ❌ Удаление
+
+<details>
+<summary><h2>Нажмите для просмотра изображения</h2></summary>
+
+<img width="800" alt="XIBi2eB9SYdG3wXn-5B5MQ" src="https://github.com/user-attachments/assets/917b948c-540e-493c-a933-a6ba86294af2" />
+</details>
 
 ### Как удалить локализацию?
 
